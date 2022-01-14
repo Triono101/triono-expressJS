@@ -1,0 +1,31 @@
+{
+  "name": "triono-expressjs",
+  "version": "1.0.0",
+  "description": "Tutorial Express JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Triono",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "multer": "^1.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triono101/triono-expressJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Triono101/triono-expressJS/issues"
+  },
+  "homepage": "https://github.com/Triono101/triono-expressJS#readme",
+  "keywords": [
+    "heroku"
+  ]
+}
